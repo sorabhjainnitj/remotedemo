@@ -1,3 +1,5 @@
 feature 1 
 final feature 2 remotely and locally both.
-third feature locally.
+
+this is the third feature remotely and locally.
+
