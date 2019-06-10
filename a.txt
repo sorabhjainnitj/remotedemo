@@ -1,2 +1,2 @@
 feature 1 
-this is the feature 2 locally.
+final feature 2 remotely and locally both.
